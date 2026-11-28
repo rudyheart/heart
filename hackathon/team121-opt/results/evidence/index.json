@@ -1,0 +1,56 @@
+[
+  {
+    "file": "holdout-opt-bot001.zip",
+    "sha256": "dcd415ca7d07acf07332f1a83045b96e117f73fbcbf704b3959073a5e38521ab",
+    "games": 20,
+    "bytes": 81283
+  },
+  {
+    "file": "holdout-opt-bot002.zip",
+    "sha256": "1566b2c527017a34456139429d5ef0d15cd28baf449d8607a17d9c7387495195",
+    "games": 20,
+    "bytes": 101836
+  },
+  {
+    "file": "holdout-opt-bot003.zip",
+    "sha256": "747a1ff5f6ba6764e1c52247622438aaea03234b5ebc47f989e109bef2689fc4",
+    "games": 20,
+    "bytes": 103802
+  },
+  {
+    "file": "holdout-opt-v2.zip",
+    "sha256": "d24512a1f8e5720263a660c7cb6ca013abe4f2c66796459033f5c8833cccbe1a",
+    "games": 20,
+    "bytes": 110920
+  },
+  {
+    "file": "holdout-tables.zip",
+    "sha256": "bd736ee9228452ea5e0a5fbbd5c9ad193866a79d6bf6f591a31dc6bf104cb484",
+    "games": 0,
+    "bytes": 1306
+  },
+  {
+    "file": "holdout-v2-bot001.zip",
+    "sha256": "bbdb4265a8f3bf36641210a4086aa3f20860977924e9ac9b87ad9f8eeef37ad1",
+    "games": 20,
+    "bytes": 87992
+  },
+  {
+    "file": "holdout-v2-bot002.zip",
+    "sha256": "187ab20d70bcbdc3bea3fd8ea4226f1028ce80678bea4395c4a869de1c12e715",
+    "games": 20,
+    "bytes": 108030
+  },
+  {
+    "file": "training.zip",
+    "sha256": "38dd62870889b90b190c4f273f8998923c298f77024abf66c13324069da463b6",
+    "games": 56,
+    "bytes": 301679
+  },
+  {
+    "file": "http-compat.zip",
+    "sha256": "f39a554d394577d261ccba5758f0dbb5f1db73e96b1dcab30222b71b1124b0c6",
+    "games": 2,
+    "bytes": 89658
+  }
+]

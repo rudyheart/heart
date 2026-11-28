@@ -1,0 +1,137 @@
+[
+  {
+    "opponent": "bot001",
+    "complete_seeds": 10,
+    "excluded_seeds": [],
+    "by_seed": [
+      {
+        "seed": 2027,
+        "win_rate_change": 0.0,
+        "score_margin_change": 120.5
+      },
+      {
+        "seed": 2063,
+        "win_rate_change": 0.0,
+        "score_margin_change": 132.0
+      },
+      {
+        "seed": 2089,
+        "win_rate_change": 0.0,
+        "score_margin_change": 338.5
+      },
+      {
+        "seed": 2111,
+        "win_rate_change": 0.0,
+        "score_margin_change": -71.0
+      },
+      {
+        "seed": 2137,
+        "win_rate_change": 0.0,
+        "score_margin_change": 63.5
+      },
+      {
+        "seed": 2179,
+        "win_rate_change": 0.0,
+        "score_margin_change": 78.5
+      },
+      {
+        "seed": 2203,
+        "win_rate_change": 0.0,
+        "score_margin_change": 123.5
+      },
+      {
+        "seed": 2221,
+        "win_rate_change": 0.0,
+        "score_margin_change": -15.0
+      },
+      {
+        "seed": 2267,
+        "win_rate_change": 0.0,
+        "score_margin_change": 52.0
+      },
+      {
+        "seed": 2293,
+        "win_rate_change": 0.0,
+        "score_margin_change": -36.5
+      }
+    ],
+    "win_rate_change": 0.0,
+    "score_margin_change": 78.6
+  },
+  {
+    "opponent": "bot002",
+    "complete_seeds": 10,
+    "excluded_seeds": [],
+    "by_seed": [
+      {
+        "seed": 2027,
+        "win_rate_change": 0.0,
+        "score_margin_change": 24.5
+      },
+      {
+        "seed": 2063,
+        "win_rate_change": -0.5,
+        "score_margin_change": -417.0
+      },
+      {
+        "seed": 2089,
+        "win_rate_change": 0.5,
+        "score_margin_change": 140.5
+      },
+      {
+        "seed": 2111,
+        "win_rate_change": 0.0,
+        "score_margin_change": 29.5
+      },
+      {
+        "seed": 2137,
+        "win_rate_change": 0.0,
+        "score_margin_change": 246.5
+      },
+      {
+        "seed": 2179,
+        "win_rate_change": 0.5,
+        "score_margin_change": 67.5
+      },
+      {
+        "seed": 2203,
+        "win_rate_change": 0.5,
+        "score_margin_change": 379.5
+      },
+      {
+        "seed": 2221,
+        "win_rate_change": 0.5,
+        "score_margin_change": 720.5
+      },
+      {
+        "seed": 2267,
+        "win_rate_change": 0.0,
+        "score_margin_change": 168.5
+      },
+      {
+        "seed": 2293,
+        "win_rate_change": 0.0,
+        "score_margin_change": -103.5
+      }
+    ],
+    "win_rate_change": 0.15,
+    "score_margin_change": 125.65
+  },
+  {
+    "opponent": "bot003",
+    "complete_seeds": 0,
+    "excluded_seeds": [
+      2027,
+      2063,
+      2089,
+      2111,
+      2137,
+      2179,
+      2203,
+      2221,
+      2267,
+      2293
+    ],
+    "by_seed": []
+  }
+]

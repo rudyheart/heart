@@ -1,0 +1,12 @@
+{
+  "winner": "/winner",
+  "winner_values": {"-1": "draw", "0": 0, "1": 1},
+  "turns": "/turns",
+  "score": "/players/{seat}/score",
+  "area": "/players/{seat}/area",
+  "stars": "/players/{seat}/stars",
+  "scraps": "/players/{seat}/scraps",
+  "illegal": "/players/{seat}/illegal",
+  "times": "/players/{seat}/time_us",
+  "time_unit": "us"
+}
